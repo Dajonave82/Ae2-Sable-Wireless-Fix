@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "de.dajonave82.ae2withsablecombat.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "WirelessTerminalMenuHostMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
