@@ -2,9 +2,11 @@
 
 **Bringing Applied Energistics 2 wireless terminals to Sable's physics sublevels.**
 
+**Now On [Curseforge](https://www.curseforge.com/minecraft/mc-mods/ae2-sable-wireless-fix) !**
+
 ## 📖 About
 
-**Ae2 Sable Wireless Fix** is a small compatibility mod for [Applied Energistics 2](https://modrinth.com/mod/ae2) and [Sable](https://modrinth.com/mod/sable).
+**Ae2 Sable Wireless Fix** is a small compatibility mod for [Applied Energistics 2](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2) and [Sable](https://www.curseforge.com/minecraft/mc-mods/sable).
 
 It addresses a compatibility issue that can occur when using AE2's wireless terminals with blocks located inside Sable's physics-based sublevels.
 
