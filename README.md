@@ -1,4 +1,12 @@
-# Ae2 Sable Wireless Fix
+<p align="center"><img src="./src/main/resources/icon.png" alt="Logo" width="92"></p>
+<h1 align="center">Ae2 Sable Wireless Fix<br>
+<div align="center">
+    <a href="https://www.curseforge.com/minecraft/mc-mods/ae2-sable-wireless-fix">
+        <img src="https://img.shields.io/curseforge/v/1767016"/>
+        <img src="https://img.shields.io/curseforge/dt/1767016?logo=curseforge&amp;label=&amp;suffix=%20&amp;style=flat&amp;color=242629&amp;labelColor=F16436&amp;logoColor=1C1C1C" alt="Curseforge Download"/>
+    </a>
+</div>
+</h1>
 
 **Bringing Applied Energistics 2 wireless terminals to Sable's physics sublevels.**
 
