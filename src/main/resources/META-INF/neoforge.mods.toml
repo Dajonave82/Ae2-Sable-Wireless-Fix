@@ -8,6 +8,8 @@ version = "1.0"
 displayName = "AE2 Sable Wireless Fix"
 authors = "dajonave82"
 description = '''Fixes Applied Energistics 2 wireless terminal range checks for Sable sub-levels.'''
+logoFile = "icon.png"
+logoBlur = false
 
 [[mixins]]
 config = "sableae2compat.mixins.json"
